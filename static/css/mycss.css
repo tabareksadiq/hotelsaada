@@ -1,0 +1,36 @@
+.cnter2 {
+    align-content: center;
+    text-align: center;
+}
+
+.tabo {
+    background-color: #265500e7;
+    font-size: 20px;
+    color: #ffff;
+}
+
+.right2 {
+    text-align: right;
+}
+
+.left2 {
+    text-align: left;
+}
+
+.code {
+    background-color: #265500e7;
+    color: #eee;
+    font-size: 15px;
+    text-shadow: 4px 4px 8px #333;
+    padding-right: 100px;
+    padding: 20px;
+    position: relative;
+}
+
+.fontt2 {
+    font-size: 20px;
+}
+
+#f1f {
+    font-family: cursive;
+}
