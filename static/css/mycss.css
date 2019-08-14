@@ -58,3 +58,38 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.foto2 {
+    width: 30px;
+    height: auto;
+    margin-right: 30px;
+}
+
+#btnScroll {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+    z-index: 99;
+    cursor: pointer;
+    padding: 16px;
+}
+
+.fofo {
+    width: auto;
+    height: 300px;
+}
+
+.bgcard2 {
+    background-image: url(../img/bgcard.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+}
+
+.lli2 {
+    display: flex;
+}
