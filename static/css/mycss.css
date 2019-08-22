@@ -48,6 +48,10 @@
     padding-bottom: 20px;
 }
 
+.mycolor2 {
+    background-color: #ecf0f1;
+}
+
 .myicon {
     width: 300px;
 }
@@ -92,4 +96,14 @@
 
 .lli2 {
     display: flex;
+}
+
+.bgcard3 {
+    background-image: url(../img/bgcard3.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
 }
